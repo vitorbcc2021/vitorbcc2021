@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning OOP
 - 📚 My University: IFGOIANO - Campus Morrinhos
 - 📫 How to reach me: vitor.allace@estudante.ifgoiano.edu.br
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm an emo kid! 
-- ☭ Ideology: communist
 
 <div align="center">
   <a href="https://github.com/vitorbcc2021">
