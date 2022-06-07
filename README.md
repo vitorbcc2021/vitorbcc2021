@@ -10,3 +10,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorbcc2021&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/>
 </div>
+
+  ![Snake animation](https://github.com/vitorbcc2021/vitorbcc2021/blob/output/github-contribution-grid-snake.svg)
