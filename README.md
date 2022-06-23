@@ -8,10 +8,10 @@
 <div align="center">
   <a href="https://github.com/vitorbcc2021">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorbcc2021&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
-  
+### My Programing Languages:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
