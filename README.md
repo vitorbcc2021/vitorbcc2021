@@ -15,8 +15,10 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Assembly" height="51" width="51" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fassembly.png?alt=media&token=9208f2f1-64b9-4cd0-a344-77f4465a0feb">
+    <img align="center" alt="C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Assembly" height="55" width="52" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/sambath-github%2Fassembly.png?alt=media&token=9208f2f1-64b9-4cd0-a344-77f4465a0feb">
+    <img align="center" alt="Assembly" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    
   </div>
     
 
