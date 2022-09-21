@@ -1,6 +1,6 @@
 ### Hello There!!! 🖤👋
 
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning Design Patterns!
 - 📚 My University: IFGOIANO - Campus Morrinhos
 - 📫 How to reach me: vitor.allace@estudante.ifgoiano.edu.br
 - ⚡ Fun fact: i'm an emo kid! 
