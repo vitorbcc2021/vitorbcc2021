@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
-### My Programing Languages:
+### I Develop In:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
