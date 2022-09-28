@@ -1,4 +1,4 @@
-### Hello There!!! 🖤👋
+### Hello There!!! 🖤👋🏻
 
 - 🌱 I’m currently learning Design Patterns in Java Language!
 - 📚 My University: IFGOIANO - Campus Morrinhos
