@@ -4,6 +4,7 @@
 - 📚 My University: IFGOIANO - Campus Morrinhos
 - 📫 How to reach me: vitor.allace@estudante.ifgoiano.edu.br
 - ⚡ Fun fact: i'm an emo kid! 
+- 👀 Learning VR Development in Unity For Oculus Quest II
 
 <div align="center">
   <a href="https://github.com/vitorbcc2021">
