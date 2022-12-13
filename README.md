@@ -1,7 +1,7 @@
 ### Hello There!!! 🖤👋🏻
 
 - 🌱 I’m currently learning Design Patterns in Java Language!
-- 📚 My University: IFGOIANO - Campus Morrinhos
+- 📚 My University: IFGOIANO - Campus Morrinhos (Brazil)
 - 📫 How to reach me: vitor.allace@estudante.ifgoiano.edu.br
 - ⚡ Fun fact: i'm an emo kid! 
 - 👀 Learning VR Development in Unity For Oculus Quest II
