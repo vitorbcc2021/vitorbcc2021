@@ -1,9 +1,8 @@
 ### Hello There!!! 🖤👋🏻
 
-- 🌱 I’m currently learning Design Patterns in Java Language!
+- 🌱 I’m currently learning Java Spring!
 - 📚 My University: IFGOIANO - Campus Morrinhos (Brazil)
 - 📫 How to reach me: vitor.allace@estudante.ifgoiano.edu.br
-- ⚡ Fun fact: i'm an emo kid! 
 - 👀 Learning VR Development in Unity For Oculus Quest II
 
 <div align="center">
@@ -14,11 +13,11 @@
   
 ### I Develop In:
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="C#" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    
-    
+  <div style="display: inline_block">
+    <img align="center" alt="Java" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Spring" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img align="center" alt="C#" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Flutter" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
     
 
