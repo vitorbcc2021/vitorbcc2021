@@ -1,9 +1,9 @@
-## Hello There!!! 🖤👋🏻
+## Olá, mundo!!! 🖤👋🏻
 
-- 🧒 I’m Vitor Allace and this is my GitHub!
-- 🎓 My University: IFGOIANO - Campus Morrinhos (Brazil 🇧🇷)
-- 📚 Learning: Java Spring Framework
-- 📫 How to reach me:
+- 🧒 Eu me chamo Vitor Allace e este é o meu GitHub!
+- 🎓 Faculdade: IFGOIANO - Campus Morrinhos (Brasil 🇧🇷)
+- 📚 Atualmente aprendendo: Java Spring Framework
+- 📫 Como entrar em contato?:
   - <img align="center" alt="Email" width="20" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-30-722694.png"> `vitor.allace@estudante.ifgoiano.edu.br`
   - <img align="center" alt="Instagram" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Insta.svg/512px-Insta.svg.png?20210913191214"> `not yet available`
   - <img align="center" alt="LinkedIn" width="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg"> `not yet available`
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
-### I Develop In:
+### Sou desenvolvedor em:
   
   <div style="display: inline_block">
     <img align="center" alt="Java" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
