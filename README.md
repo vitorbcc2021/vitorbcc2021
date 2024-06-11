@@ -4,11 +4,13 @@
 - 🎓 I'm a Compute Science student at IFGOIANO - Campus Morrinhos (Brazil 🇧🇷)
 - 📚 Currently learning: Java Spring Framework, Rest Architecture
 
-### I Work With
+## About my work
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/vitorbcc2021"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbcc2021&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/></a><a href="https://github.com/vitorbcc2021"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/></a>
 </div>
+
+### My languages
 
 <div style="display: flex; align-items: center; justify-content: center">
     <img align="center" alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -17,7 +19,7 @@
     <img align="center" alt="Flutter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
-### 📫 How to contact me
+## 📫 How to contact me
 
 <a href="mailto:vitormarquespnn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5564992793740&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
