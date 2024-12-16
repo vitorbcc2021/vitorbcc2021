@@ -1,10 +1,10 @@
 # 🖤👋🏻 Hello There!!! 
 
 - 🧒 My name is Vitor Allace and this is my GitHub!
-- 🎓 I'm a Compute Science student at IFGOIANO - Campus Morrinhos (Brazil 🇧🇷)
+- 🎓 I'm a Computer Science student at IFGOIANO - Campus Morrinhos (Brazil 🇧🇷)
 - 📚 Currently learning: Java Spring Framework, Rest Architecture
 
-## About my work
+## 🧑🏻‍💻 I code with
 
   <a href="https://github.com/vitorbcc2021"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbcc2021&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/vitorbcc2021"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbcc2021&layout=compact&langs_count=7&theme=outrun"/></a>
