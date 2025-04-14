@@ -17,6 +17,7 @@
     <img align="center" alt="NodeJS" width=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <!-- <img align="center" alt="C#" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
     <img align="center" alt="Flutter" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img align="center" alt="Flutter" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ## 📫 How to contact me
