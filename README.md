@@ -12,12 +12,14 @@ Currently learning: Rust🦀 and NodeJS
 
 <div style="display: flex; align-items: center; justify-content: center">
     <img align="center" alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="Javascript" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="React" width="60" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"/>
     <img align="center" alt="Spring" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
     <img align="center" alt="Dart" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
     <img align="center" alt="Flutter" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="PostgreSQL" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Python" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="NodeJS" width=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img align="center" alt="NodeJS" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <!-- <img align="center" alt="Rust" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> -->
     <!-- <img align="center" alt="C#" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
     
